@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
       - name: shopping-cart
-        image: arunscalezee/shopping-cart:latest
+        image: arunscalezee/shopping-cart:tag-2
         ports:
         - containerPort: 8070
 
